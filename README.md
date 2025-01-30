@@ -1,5 +1,5 @@
-# Zadanie_rekrutacyjne
+# Recruitment task
 
-Celem zadania było stworzenie automatu w programie Make, wraz z serwerem JS/TS który będzie odbierał z niego informacje.
+The aim of the task was to create an automaton in Make, along with a JS/TS server that would receive information from it.
 
-Do implementacji serwera wykorzystano środowisko Node.js oraz framework Express. Serwer jest uruchamiany lokalnie na porcie 3000 (localhost:3000). Aby przetestować jego współpracę z automatem wykonanym w programie Make skorzystano z aplikacji "ngrok" w celu tymczasowego udostępnienia serwera w internecie.
+The Node.js environment and the Express framework were used to implement the server. The server runs locally on port 3000 (localhost:3000). To test its cooperation with the machine made in Make, the "ngrok" application was used to temporarily make the server available on the Internet.
